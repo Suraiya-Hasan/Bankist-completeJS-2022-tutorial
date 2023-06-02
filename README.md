@@ -15,7 +15,7 @@ The user can also close their account specifying their name and pin.
 The value of the above mentioned functionalities are for one particular session. Reloading will set it to initial coded state.
 
 
-*****To run this project******
+*****To run this project*****
 1. Install nodeJS (not required if already installed)
 2.  Download the zip
 3. Go to the folder where the files are located
